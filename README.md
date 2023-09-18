@@ -13,6 +13,7 @@ Develped a coffee shop landing page user interface using the skills gained in we
 ## Features
 
 - Users can navigate through different pages using then navbar
+- Users can connect with the companies social media platforms by clicking on the icons found in the footer
 
 ## Technologies
 
